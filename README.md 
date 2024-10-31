@@ -1,4 +1,3 @@
-
 # Servicio Meteorológico con Ktor y Redis
 
 Este proyecto es un servicio que consulta datos meteorológicos desde la API de OpenWeatherMap, con almacenamiento en caché utilizando Redis para mejorar el rendimiento y reducir las consultas repetitivas a la API.
